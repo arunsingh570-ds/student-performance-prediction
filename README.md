@@ -1,12 +1,12 @@
-# 🏠 House Price Prediction
+# 🎓 Student Performance Prediction
 
-A Machine Learning project that predicts house prices based on features like location, size, total square feet, number of bedrooms, bathrooms, and other property-related factors.
+A Machine Learning project that predicts student performance based on study habits, attendance, sleep hours, social media usage, and other lifestyle factors.
 
 ---
 
 ## 📌 Project Overview
 
-This project uses **Bengaluru housing dataset** to build a regression model that can estimate house prices accurately. It includes data preprocessing, feature engineering, model training, and prediction.
+This project analyzes student behavior and builds a predictive model to estimate academic performance. It helps in understanding how different factors affect student outcomes.
 
 ---
 
@@ -14,9 +14,9 @@ This project uses **Bengaluru housing dataset** to build a regression model that
 
 - 📊 Data preprocessing and cleaning  
 - 🧠 Machine Learning model training  
-- 📈 House price prediction  
-- 📍 Location-based analysis  
-- 📉 Data visualization using graphs  
+- 📈 Student performance prediction  
+- 📉 Data visualization and insights  
+- 🌐 Flask-based web application (if used)  
 
 ---
 
@@ -28,7 +28,7 @@ This project uses **Bengaluru housing dataset** to build a regression model that
 - Scikit-learn  
 - Matplotlib  
 - Seaborn  
-- Flask (if used for web app)
+- Flask  
 
 ---
 
